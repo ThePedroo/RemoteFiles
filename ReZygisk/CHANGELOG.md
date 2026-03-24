@@ -1,16 +1,13 @@
 # Added
 
-- Tango support
-- Custom linkers
-- KSU v3 support
-- OneUI 8.5 support
+- KSU in Private Space support
+- Module `id` verification
 
 # Improved
 
-- Overall hiding
-- Stability with certain modules (e.g. LSPosed-Irena)
-- Installation size
+- Custom linker stability
 
 # Fixed
 
-- PDG symbols not being found in some ROMs
+- Waydroid support
+- Generation of malformed `state.json` for when both Zygotes couldn't be injected
