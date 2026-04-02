@@ -1,13 +1,13 @@
 # Added
 
-- KSU in Private Space support
-- Module `id` verification
+- Android 17 Beta 3 compatibility
 
 # Improved
 
-- Custom linker stability
+- KernelSU existence checks
 
 # Fixed
 
-- Waydroid support
-- Generation of malformed `state.json` for when both Zygotes couldn't be injected
+- Umount in latest KernelSU (added `ksu` context to `sepolicy.rule`)
+- Module mismatch between daemon and core in special cases
+- libzygisk.so path leak in stack detection
