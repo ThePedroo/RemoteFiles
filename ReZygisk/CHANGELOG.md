@@ -1,13 +1,16 @@
 # Added
 
-- Android 17 Beta 3 compatibility
+- Android 7.1 support
+- Multi-Zygisk detection
 
 # Improved
 
-- KernelSU existence checks
+- Shell scripts robustness
+- Tango injection code
+- Make ReZygisk mountless
+- stealthness
 
 # Fixed
 
-- Umount in latest KernelSU (added `ksu` context to `sepolicy.rule`)
-- Module mismatch between daemon and core in special cases
-- libzygisk.so path leak in stack detection
+- x64/x86 remote syscall function
+- General code bug fixes
