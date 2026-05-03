@@ -1,16 +1,9 @@
-# Added
-
-- Android 7.1 support
-- Multi-Zygisk detection
-
 # Improved
 
-- Shell scripts robustness
-- Tango injection code
-- Make ReZygisk mountless
-- stealthness
+- WebUI by using Treat Wheel's WebUI Framework
+- Replaced LSPlt with PLTI
+- `apd` binary lookup
 
 # Fixed
 
-- x64/x86 remote syscall function
-- General code bug fixes
+- Exempted fds not being set to be ignored by Zygote
