@@ -1,6 +1,6 @@
 ## Treat Wheel 0.0.10 is here.
 
-This version brings [its source code to the public](https://github.com/ThePedroo/Treat-Wheel-Zygisk) and the ReZygisk verification system has been decommissioned. The included binaries no longer contains any obfuscation.
+This version brings [its code to the public](https://github.com/ThePedroo/Treat-Wheel-Zygisk) and the decommissions the ReZygisk check system.
 
 Do not enable, or disable, options you do not understand. Trust the default.
 
