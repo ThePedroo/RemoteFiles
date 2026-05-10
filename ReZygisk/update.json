@@ -1,6 +1,6 @@
 {
-  "version": "v1.0.0-rc.9",
-  "versionCode": 513,
+  "version": "v1.0.0",
+  "versionCode": 515,
   "zipUrl": "https://raw.githubusercontent.com/ThePedroo/RemoteFiles/refs/heads/main/ReZygisk/ReZygisk.zip",
   "changelog": "https://raw.githubusercontent.com/ThePedroo/RemoteFiles/refs/heads/main/ReZygisk/CHANGELOG.md"
 }

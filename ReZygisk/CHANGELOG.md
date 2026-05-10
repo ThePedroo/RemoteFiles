@@ -1,9 +1,12 @@
+# Added
+
+- A WebUI
+- 32-bit-only support
+- Overlay umount support
+- (R)CSOLoader usage
+- Tango support
+
 # Improved
 
-- WebUI by using Treat Wheel's WebUI Framework
-- Replaced LSPlt with PLTI
-- `apd` binary lookup
-
-# Fixed
-
-- Exempted fds not being set to be ignored by Zygote
+- Umount system
+- Rewritten the entire codebase to C
